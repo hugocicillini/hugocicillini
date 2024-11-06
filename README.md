@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Meu nome é Hugo e eu sou Desenvolvedor Web Full-Stack </p>
+<p align="left">Meu nome é Hugo e sou Desenvolvedor Web Full-Stack! </p>
 
 ###
 
